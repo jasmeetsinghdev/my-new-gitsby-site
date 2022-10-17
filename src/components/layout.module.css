@@ -1,3 +1,5 @@
+.mainWrap { width: 100%; }
+
 .container {
   margin: auto;
   max-width: 1150px;
@@ -15,6 +17,6 @@
 .nav-link-item {
   padding-right: 2rem;
 }
-.nav-link-text {
-  color: black;
+.active {
+  color: red;
 }
