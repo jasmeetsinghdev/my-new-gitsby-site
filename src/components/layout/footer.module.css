@@ -1,0 +1,14 @@
+footer { border-top: 1px solid #ccc; }
+.footerInner { display: flex; padding: 20px 0; }
+.footerInfo { width: 50%; padding-right: 10%;}
+.footerLinksBlock { padding: 0 0 0 40px; width: 20%; }
+.footerLinksBlock ul { margin: 0; padding: 0 0 0 20px; }
+.footerLinksBlock ul li { margin-bottom: 10px;}
+.footerLinksBlock ul li a { text-decoration: none; color: #000;}
+
+.footerCopyright { border-top: 1px solid #ccc; background: #f4f4f4;}
+.copyrightInner { display: flex; justify-content: space-between; padding: 20px 0; align-items: center;}
+.copyrightInner ul { list-style: none; display: flex; padding: 0; margin: 0; }
+.copyrightInner ul li { list-style: none; padding: 0 15px 0 0; }
+.copyrightInner ul li a { color: #000; text-decoration: none; }
+.copyrightInner p { margin: 0; padding: 0; }
